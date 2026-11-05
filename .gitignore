@@ -12,3 +12,5 @@ server/dist/
 *.sqlite3
 coverage/
 .DS_Store
+
+server/data/*.db*
